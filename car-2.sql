@@ -13,8 +13,6 @@ insert into car (id, make, model, price) values (9, 'Subaru', 'Justy', '92998.82
 insert into car (id, make, model, price) values (10, 'Chevrolet', 'Express 2500', '10823.69');
 insert into car (id, make, model, price) values (11, 'Cadillac', 'Brougham', '44556.13');
 insert into car (id, make, model, price) values (12, 'BMW', '7 Series', '34468.61');
-insert into car (id, make, model, price) values (13, 'Mazda', 'RX-8', '51272.48');
-insert into car (id, make, model, price) values (14, 'Jensen', 'Interceptor', '63061.13');
 insert into car (id, make, model, price) values (15, 'Saab', '9-5', '67950.14');
 insert into car (id, make, model, price) values (16, 'Oldsmobile', 'Bravada', '94937.82');
 insert into car (id, make, model, price) values (17, 'Hyundai', 'Sonata', '92241.49');
