@@ -4,11 +4,7 @@ create table car (
 	model VARCHAR(100) NOT NULL,
 	price NUMERIC(19, 2) NOT NULL
 );
-insert into car (id, make, model, price) values (1, 'Land Rover', 'Sterling', '87665.38');
-insert into car (id, make, model, price) values (2, 'GMC', 'Acadia', '17662.69');
-insert into car (id, make, model, price) values (3, 'Ford', 'F250', '16819.19');
-insert into car (id, make, model, price) values (4, 'Chevrolet', 'Sportvan G30', '31932.31');
-insert into car (id, make, model, price) values (5, 'Lexus', 'ES', '92820.92');
+
 insert into car (id, make, model, price) values (6, 'Kia', 'Sorento', '41368.24');
 insert into car (id, make, model, price) values (7, 'Toyota', 'Sienna', '22861.43');
 insert into car (id, make, model, price) values (8, 'Audi', 'S6', '62251.73');
