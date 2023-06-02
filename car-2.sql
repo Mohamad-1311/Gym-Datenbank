@@ -5,6 +5,7 @@ create table car (
 	price NUMERIC(19, 2) NOT NULL
 );
 
+"Jetzt wird zum Beispiel eine neue Zeile erstellt-_-"
 insert into car (id, make, model, price) values (6, 'Kia', 'Sorento', '41368.24');
 insert into car (id, make, model, price) values (7, 'Toyota', 'Sienna', '22861.43');
 insert into car (id, make, model, price) values (8, 'Audi', 'S6', '62251.73');
